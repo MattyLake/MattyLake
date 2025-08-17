@@ -1,8 +1,4 @@
-<p style="color: #ffffff;">MattyLakeMattyLake</p>
-<p style="color: #eeeeee;">MattyLakeMattyLake</p>
-<p style="color: #cccccc;">MattyLakeMattyLake</p>
-<p style="color: #aaaaaa;">MattyLakeMattyLake</p>
-<p style="color: #888888;">MattyLakeMattyLake</p>
+# MattyLakeMattyLakeMattyLakeMattyLakeMattyLakeMattyLakeMattyLakeMattyLakeMattyLakeMattyLake
 
 ## MattyLake..
 
